@@ -12,6 +12,7 @@ namespace SearchingAlgorithams
         {
             var linearSearch = new LinearSearch();
             var binarySearch = new BinarySearch();
+            var naiveStringSearch = new NaiveStringSearch();
 
 
             var output = linearSearch.LinearSearchAlgoritham(Constants.Countries, "Niger");
@@ -23,6 +24,13 @@ namespace SearchingAlgorithams
             var index = binarySearch.BinarySearchAlgoritham(input, 2);
 
             Console.WriteLine($"Middle {index}");
+
+            Console.WriteLine("========================**********==================");
+
+            var shortString = "err";
+            var longString = "terr ery uerr 44xer6 err78";
+            var mathcingCase = naiveStringSearch.NaivStringSearchAlgoritham(longString, shortString);
+            Console.WriteLine($"Matching case of {shortString} in {longString} is total: {mathcingCase}");
             Console.ReadKey();
         }
     }
