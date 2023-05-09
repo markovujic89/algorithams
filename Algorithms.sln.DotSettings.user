@@ -1,0 +1,8 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=bf1aafb0_002Dcfa8_002D476d_002D97ee_002D8307e6e93a62/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="FrequencyCountersTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::6D2650C0-4429-4705-B099-E9C67C00B35F::.NETFramework,Version=v4.8::UnitTestAlgorithms.ProblemSolvingPattern.FrequencyCountersTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::6D2650C0-4429-4705-B099-E9C67C00B35F::.NETFramework,Version=v4.8::UnitTestAlgorithms.ProblemSolvingPattern.MultiplePointerTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::6D2650C0-4429-4705-B099-E9C67C00B35F::.NETFramework,Version=v4.8::UnitTestAlgorithms.Recursion.RecursionFunctionsTests.CalculateFactorial_CalculateFactorial6_Return240&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

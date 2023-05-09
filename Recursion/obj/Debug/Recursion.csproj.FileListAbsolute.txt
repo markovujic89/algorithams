@@ -1,0 +1,23 @@
+C:\Learning\Algorithms\Algorithms\Recursion\bin\Debug\Recursion.exe.config
+C:\Learning\Algorithms\Algorithms\Recursion\bin\Debug\Recursion.exe
+C:\Learning\Algorithms\Algorithms\Recursion\bin\Debug\Recursion.pdb
+C:\Learning\Algorithms\Algorithms\Recursion\obj\Debug\Recursion.csproj.AssemblyReference.cache
+C:\Learning\Algorithms\Algorithms\Recursion\obj\Debug\Recursion.csproj.CoreCompileInputs.cache
+C:\Learning\Algorithms\Algorithms\Recursion\obj\Debug\Recursion.exe
+C:\Learning\Algorithms\Algorithms\Recursion\obj\Debug\Recursion.pdb
+C:\Users\mavu1010\Desktop\My learning from comparis\Algorithms\Algorithms\Algorithms\Recursion\bin\Debug\Recursion.exe.config
+C:\Users\mavu1010\Desktop\My learning from comparis\Algorithms\Algorithms\Algorithms\Recursion\bin\Debug\Recursion.exe
+C:\Users\mavu1010\Desktop\My learning from comparis\Algorithms\Algorithms\Algorithms\Recursion\bin\Debug\Recursion.pdb
+C:\Users\mavu1010\Desktop\My learning from comparis\Algorithms\Algorithms\Algorithms\Recursion\obj\Debug\Recursion.csproj.AssemblyReference.cache
+C:\Users\mavu1010\Desktop\My learning from comparis\Algorithms\Algorithms\Algorithms\Recursion\obj\Debug\Recursion.csproj.SuggestedBindingRedirects.cache
+C:\Users\mavu1010\Desktop\My learning from comparis\Algorithms\Algorithms\Algorithms\Recursion\obj\Debug\Recursion.csproj.CoreCompileInputs.cache
+C:\Users\mavu1010\Desktop\My learning from comparis\Algorithms\Algorithms\Algorithms\Recursion\obj\Debug\Recursion.exe
+C:\Users\mavu1010\Desktop\My learning from comparis\Algorithms\Algorithms\Algorithms\Recursion\obj\Debug\Recursion.pdb
+C:\Learning\Algorithams\Recursion\bin\Debug\Recursion.exe.config
+C:\Learning\Algorithams\Recursion\bin\Debug\Recursion.exe
+C:\Learning\Algorithams\Recursion\bin\Debug\Recursion.pdb
+C:\Learning\Algorithams\Recursion\obj\Debug\Recursion.csproj.AssemblyReference.cache
+C:\Learning\Algorithams\Recursion\obj\Debug\Recursion.csproj.SuggestedBindingRedirects.cache
+C:\Learning\Algorithams\Recursion\obj\Debug\Recursion.csproj.CoreCompileInputs.cache
+C:\Learning\Algorithams\Recursion\obj\Debug\Recursion.exe
+C:\Learning\Algorithams\Recursion\obj\Debug\Recursion.pdb

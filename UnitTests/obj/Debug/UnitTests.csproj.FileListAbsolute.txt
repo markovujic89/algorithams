@@ -1,0 +1,17 @@
+C:\Learning\Algorithms\Algorithms\UnitTests\bin\Debug\UnitTests.dll
+C:\Learning\Algorithms\Algorithms\UnitTests\bin\Debug\UnitTests.pdb
+C:\Learning\Algorithms\Algorithms\UnitTests\bin\Debug\xunit.abstractions.dll
+C:\Learning\Algorithms\Algorithms\UnitTests\bin\Debug\xunit.assert.dll
+C:\Learning\Algorithms\Algorithms\UnitTests\bin\Debug\xunit.core.dll
+C:\Learning\Algorithms\Algorithms\UnitTests\bin\Debug\xunit.execution.desktop.dll
+C:\Learning\Algorithms\Algorithms\UnitTests\bin\Debug\xunit.assert.xml
+C:\Learning\Algorithms\Algorithms\UnitTests\bin\Debug\xunit.core.xml
+C:\Learning\Algorithms\Algorithms\UnitTests\bin\Debug\xunit.execution.desktop.xml
+C:\Learning\Algorithms\Algorithms\UnitTests\obj\Debug\UnitTests.csproj.AssemblyReference.cache
+C:\Learning\Algorithms\Algorithms\UnitTests\obj\Debug\UnitTests.csproj.CoreCompileInputs.cache
+C:\Learning\Algorithms\Algorithms\UnitTests\obj\Debug\UnitTests.csproj.CopyComplete
+C:\Learning\Algorithms\Algorithms\UnitTests\obj\Debug\UnitTests.dll
+C:\Learning\Algorithms\Algorithms\UnitTests\obj\Debug\UnitTests.pdb
+C:\Learning\Algorithms\Algorithms\UnitTests\bin\Debug\xunit.runner.visualstudio.testadapter.dll
+C:\Learning\Algorithms\Algorithms\UnitTests\bin\Debug\xunit.runner.reporters.net452.dll
+C:\Learning\Algorithms\Algorithms\UnitTests\bin\Debug\xunit.runner.utility.net452.dll

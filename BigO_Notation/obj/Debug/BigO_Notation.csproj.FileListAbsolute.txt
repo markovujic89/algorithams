@@ -1,0 +1,23 @@
+C:\Learning\Algorithms\Algorithms\BigO_Notation\bin\Debug\BigO_Notation.exe.config
+C:\Learning\Algorithms\Algorithms\BigO_Notation\bin\Debug\BigO_Notation.exe
+C:\Learning\Algorithms\Algorithms\BigO_Notation\bin\Debug\BigO_Notation.pdb
+C:\Learning\Algorithms\Algorithms\BigO_Notation\obj\Debug\BigO_Notation.csproj.AssemblyReference.cache
+C:\Learning\Algorithms\Algorithms\BigO_Notation\obj\Debug\BigO_Notation.csproj.CoreCompileInputs.cache
+C:\Learning\Algorithms\Algorithms\BigO_Notation\obj\Debug\BigO_Notation.exe
+C:\Learning\Algorithms\Algorithms\BigO_Notation\obj\Debug\BigO_Notation.pdb
+C:\Users\mavu1010\Desktop\My learning from comparis\Algorithms\Algorithms\Algorithms\BigO_Notation\bin\Debug\BigO_Notation.exe.config
+C:\Users\mavu1010\Desktop\My learning from comparis\Algorithms\Algorithms\Algorithms\BigO_Notation\bin\Debug\BigO_Notation.exe
+C:\Users\mavu1010\Desktop\My learning from comparis\Algorithms\Algorithms\Algorithms\BigO_Notation\bin\Debug\BigO_Notation.pdb
+C:\Users\mavu1010\Desktop\My learning from comparis\Algorithms\Algorithms\Algorithms\BigO_Notation\obj\Debug\BigO_Notation.csproj.AssemblyReference.cache
+C:\Users\mavu1010\Desktop\My learning from comparis\Algorithms\Algorithms\Algorithms\BigO_Notation\obj\Debug\BigO_Notation.csproj.SuggestedBindingRedirects.cache
+C:\Users\mavu1010\Desktop\My learning from comparis\Algorithms\Algorithms\Algorithms\BigO_Notation\obj\Debug\BigO_Notation.csproj.CoreCompileInputs.cache
+C:\Users\mavu1010\Desktop\My learning from comparis\Algorithms\Algorithms\Algorithms\BigO_Notation\obj\Debug\BigO_Notation.exe
+C:\Users\mavu1010\Desktop\My learning from comparis\Algorithms\Algorithms\Algorithms\BigO_Notation\obj\Debug\BigO_Notation.pdb
+C:\Learning\Algorithams\BigO_Notation\bin\Debug\BigO_Notation.exe.config
+C:\Learning\Algorithams\BigO_Notation\bin\Debug\BigO_Notation.exe
+C:\Learning\Algorithams\BigO_Notation\bin\Debug\BigO_Notation.pdb
+C:\Learning\Algorithams\BigO_Notation\obj\Debug\BigO_Notation.csproj.AssemblyReference.cache
+C:\Learning\Algorithams\BigO_Notation\obj\Debug\BigO_Notation.csproj.SuggestedBindingRedirects.cache
+C:\Learning\Algorithams\BigO_Notation\obj\Debug\BigO_Notation.csproj.CoreCompileInputs.cache
+C:\Learning\Algorithams\BigO_Notation\obj\Debug\BigO_Notation.exe
+C:\Learning\Algorithams\BigO_Notation\obj\Debug\BigO_Notation.pdb
