@@ -4,19 +4,19 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace SelectionSort
+namespace InsertionSort
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            var selectionSort = new SelectionSort();
+            var insertationSort = new InsertationSort();
 
-            var output =selectionSort.SelectionSorting(new int[] { 7, 3, 9, 4, 2, 2, 11, 10, 6 });
+            var output = insertationSort.InsertationSorting(new int[] { 11, 21, 3, 7, 55, 2, 6, 14 });
 
-            foreach( var i in output )
+            foreach ( var item in output )
             {
-                Console.WriteLine(i);
+                Console.WriteLine(item);
             }
 
             Console.ReadKey();
